@@ -119,7 +119,6 @@ Karşılaştırma sonucunda **ortalama yüzde hata %13,65** olarak hesaplanmış
 
 | Klasör / Dosya | Açıklama                           |
 | -------------- | ---------------------------------- |
-| `veri/`        | Analizde kullanılan veri dosyaları |
 | `rapor/`       | Proje raporu                       |
 | `gorseller/`   | Analiz ve simülasyon çıktıları     |
 
